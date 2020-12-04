@@ -39,7 +39,7 @@ How does it work?
 
 Call the different methods of the class:
 
-- getRandomPseudo
+- [getRandomPseudo](https://github.com/lingtalfi/TinyBullsheeter/blob/master/doc/api/Ling/TinyBullsheeter/TinyBullsheeterTool/getRandomPseudo.md)
 
 
 Note: this is an update on my previous [BullSheet](https://github.com/lingtalfi/BullSheet) repository.
@@ -101,6 +101,10 @@ Related
 
 History Log
 =============
+
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
 
 - 1.0.0 -- 2019-08-14
 
